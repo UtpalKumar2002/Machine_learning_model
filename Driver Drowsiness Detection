@@ -1,0 +1,22 @@
+# Driver's Drowsiness Detection
+
+## Overview
+
+Driver's Drowsiness Detection is a computer vision-based project designed to enhance road safety by detecting and alerting drivers about potential drowsiness. The project utilizes machine learning techniques to analyze facial expressions and monitor driver behavior.
+
+## Features
+
+- **Real-time Drowsiness Detection:** The system continuously analyzes the driver's facial features to identify signs of drowsiness in real-time.
+
+- **Alert Mechanism:** When drowsiness is detected, the system triggers alerts, such as sound notifications or visual warnings, to bring the driver's attention back to the road.
+
+- **User-Friendly Interface:** The project comes with an intuitive interface that provides feedback on the driver's alertness level.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
